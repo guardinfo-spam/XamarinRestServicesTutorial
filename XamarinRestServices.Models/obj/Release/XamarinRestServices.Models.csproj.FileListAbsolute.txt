@@ -1,0 +1,4 @@
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\bin\Release\XamarinRestServices.Models.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\bin\Release\XamarinRestServices.Models.pdb
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\obj\Release\XamarinRestServices.Models.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\obj\Release\XamarinRestServices.Models.pdb

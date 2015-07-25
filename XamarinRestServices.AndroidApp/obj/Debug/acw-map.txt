@@ -1,0 +1,4 @@
+XamarinRestServices.AndroidApp.MainActivity, XamarinRestServices.AndroidApp;md526aae79be78e48dbac7e0e4d0d2d14af.MainActivity
+XamarinRestServices.AndroidApp.MainActivity, XamarinRestServices.AndroidApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md526aae79be78e48dbac7e0e4d0d2d14af.MainActivity
+XamarinRestServices.AndroidApp.MainActivity;md526aae79be78e48dbac7e0e4d0d2d14af.MainActivity
+xamarinrestservices.androidapp.MainActivity;md526aae79be78e48dbac7e0e4d0d2d14af.MainActivity

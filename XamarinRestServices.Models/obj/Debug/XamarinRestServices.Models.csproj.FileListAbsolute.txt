@@ -1,0 +1,5 @@
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\bin\Debug\XamarinRestServices.Models.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\bin\Debug\XamarinRestServices.Models.pdb
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\obj\Debug\XamarinRestServices.Models.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\obj\Debug\XamarinRestServices.Models.pdb
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\XamarinRestServices.Models\obj\Debug\XamarinRestServices.Models.csprojResolveAssemblyReference.cache

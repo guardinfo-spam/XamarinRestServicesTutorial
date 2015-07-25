@@ -1,0 +1,16 @@
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\RestService.dll.config
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\RestService.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\RestService.pdb
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\Newtonsoft.Json.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Net.Http.Formatting.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Web.Http.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Web.Http.WebHost.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\XamarinRestServices.Models.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\XamarinRestServices.Models.pdb
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\Newtonsoft.Json.xml
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Net.Http.Formatting.xml
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Web.Http.xml
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\bin\System.Web.Http.WebHost.xml
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\obj\Release\RestService.csprojResolveAssemblyReference.cache
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\obj\Release\RestService.dll
+H:\PersonalDev\WordpressBlogArticles\XamarinRestServices\RestService\obj\Release\RestService.pdb
