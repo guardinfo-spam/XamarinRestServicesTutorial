@@ -1,0 +1,1 @@
+H:\PersonalDev\xamarin-demo\XamarinRestServicesTutorial\XamarinRestServices.WindowsApp\XamarinRestServices.WindowsApp.Windows\XamarinRestServices.WindowsApp.Windows.csproj;neutral

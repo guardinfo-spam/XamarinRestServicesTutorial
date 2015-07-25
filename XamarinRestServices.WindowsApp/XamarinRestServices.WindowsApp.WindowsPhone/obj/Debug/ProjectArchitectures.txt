@@ -1,0 +1,4 @@
+H:\PersonalDev\xamarin-demo\XamarinRestServicesTutorial\XamarinRestServices.Models\XamarinRestServices.Models.csproj;neutral
+H:\PersonalDev\xamarin-demo\XamarinRestServicesTutorial\XamarinRestServices.Models\XamarinRestServices.Models.csproj;neutral
+H:\PersonalDev\xamarin-demo\XamarinRestServicesTutorial\XamarinRestServices.RestServicePclLibrary\XamarinRestServices.RestServicePclLibrary.csproj;neutral
+H:\PersonalDev\xamarin-demo\XamarinRestServicesTutorial\XamarinRestServices.WindowsApp\XamarinRestServices.WindowsApp.WindowsPhone\XamarinRestServices.WindowsApp.WindowsPhone.csproj;neutral
